@@ -1,4 +1,4 @@
-# willow
+# willow may
 hey! im a young woman in the pnw with a passion for front-end development. i have several ui re-writes for the application obsidian, which can be found pinned below. feel free to reach out with any questions :3
 
 - 💻 hobbyist programmer
