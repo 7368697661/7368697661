@@ -9,6 +9,6 @@ hey! im a young woman in the pnw with a passion for front-end development. i hav
 - 🌱 I’m currently learning → comp sci / ml
 - 🤔 I’m looking for help with → css, python ...... **rust**
 - 💬 Ask me about → css gradients!
-- 📫 How to reach me: → **discord friend request @void.bbg**
+- 📫 How to reach me: → **discord friend request @moka.bbg**
 - 😄 Pronouns: → *she/her*
 - ⚡ Fun fact: → the avg cloud weighs between **1 and 3 million** pounds
