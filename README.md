@@ -1,16 +1,17 @@
-## Hi there 👋
+# 7368697661
 
-<!--
-**7368697661/7368697661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build things that don't exist bc i need them to exist 
 
-Here are some ideas to get you started:
+### about
+- she/her
+- in uni
+- i study machine learning, neural networks, and llms
+- i write sci-fantasy (longest running project is over 10 yrs)
+- favorite color is red
+- **if u need to reach me my discord is being set up**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### building
+- **obsidian themes** — i build themes w by all means too many things, or too few, but its fun :) currently have 2 community awards for ([origami](https://github.com/7368697661/Origami) & [ultra lobster](https://github.com/7368697661/Ultra-Lobster)) n a couple repos over 100 stars
+- ???
+- ???
+- ???
